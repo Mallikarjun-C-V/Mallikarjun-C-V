@@ -6,15 +6,12 @@ I’m a passionate developer, problem-solver, and lifelong learner.
 ---
 
 ## 🎮 Fun Corner
-Check out my Snake Game in action:  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
-
-Or play it online: [Try Snake Game](https://example.com)  
 
 ---
 
@@ -25,13 +22,24 @@ Or play it online: [Try Snake Game](https://example.com)
 ---
 
 ## 🛠️ Skills & Technologies
-Here are some tools and languages I use frequently:  
+Here are some tools and languages I use frequently (basics included):  
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
-![React](https://img.shields.io/badge/React-17-blue?logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-14-green?logo=node.js)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![C](https://img.shields.io/badge/C-Basic-blue?logo=c)
+![Java](https://img.shields.io/badge/Java-Basic-red?logo=java)
+![Python](https://img.shields.io/badge/Python-Basic%20+%20OOPs-blue?logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
+
 
 ---
 
