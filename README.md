@@ -1,47 +1,55 @@
-# Hi there 👋, I'm YOUR_USERNAME
+# Hi there 👋, I'm MALLIKARJUN C V
 
-Welcome to my GitHub profile!  
-I love coding, building fun projects, and contributing to open source.  
+Welcome to my corner of GitHub!  
+I’m a passionate developer, problem-solver, and lifelong learner.  
 
 ---
 
-## 🎮 Featured Fun
-Check out this Snake Game in action:  
+## 🎮 Fun Corner
+Check out my Snake Game in action:  
 ![Snake Game](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)  
 
-Or play it online: [Play Snake Game](https://example.com)  
+Or play it online: [Try Snake Game](https://example.com)  
 
 ---
 
 ## 📊 GitHub Stats
-![YOUR_USERNAME's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![MALLIKARJUN C V's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mallikarjun-C-V&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mallikarjun-C-V&layout=compact&theme=radical)
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills & Technologies
+Here are some tools and languages I use frequently:  
+
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
-![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github)
+![React](https://img.shields.io/badge/React-17-blue?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-14-green?logo=node.js)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 
 ---
 
-## 🌱 Learning & Interests
-- 🐍 Python and AI
-- 🎮 Game development
-- 📊 Data visualization
-- 💻 Open source contributions
-- 🚀 Exploring new tech
+## 🌱 Currently Learning
+- ⚡ Advanced Python & AI  
+- 🎮 Game Development with Pygame  
+- 🌐 Modern Web Development (React & Next.js)  
+- 📊 Data Visualization & Analytics  
 
 ---
 
-## 📫 Connect with me
+## 💬 Fun Facts
+- Coffee fuels my coding ☕  
+- Love to turn random ideas into small projects 💡  
+- GitHub streaks are my guilty pleasure 🔥  
+
+---
+
+## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=flat-square)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=flat-square)](https://twitter.com/YOUR_TWITTER)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?logo=google-chrome&style=flat-square)](https://YOUR_PORTFOLIO)
 
 ---
 
-Thanks for visiting! ✨
+✨ **Explore my repositories below to see all my projects!**
