@@ -14,24 +14,6 @@ Check out my Snake Game in action:
   <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<!-- 🌟 Ready-made GitHub Profile Widgets 🌟 -->
-
-<!-- Activity graph of recent commits -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mallikarjun-C-V)
-
-<!-- Profile summary card -->
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mallikarjun-C-V)
-
-<!-- Most-used programming languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mallikarjun-C-V)
-
-<!-- Fun “trophy cabinet” of GitHub achievements -->
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mallikarjun-C-V&theme=darkhub)
-
-<!-- Optional visitor counter -->
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mallikarjun-C-V.mallikarjun-C-V)
-
-<!-- If you just want a snake graphic like Platane’s demo (not your own contributions) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
