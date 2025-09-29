@@ -44,15 +44,15 @@ Here are some tools and languages I use frequently (basics included):
 ---
 
 ## 🌱 Currently Learning
-- ⚡ Advanced Python & AI  
-- 🎮 Game Development with Pygame  
+- ⚡ Building projects 
+- 🎮 Computer Networks
 - 🌐 Modern Web Development (React & Next.js)  
 - 📊 Data Visualization & Analytics  
 
 ---
 
 ## 💬 Fun Facts
-- Coffee fuels my coding ☕  
+- Seeing others code fuels my coding (just being honest) 🫣  
 - Love to turn random ideas into small projects 💡  
 - GitHub streaks are my guilty pleasure 🔥  
 
