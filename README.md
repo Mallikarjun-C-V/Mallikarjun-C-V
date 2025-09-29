@@ -24,39 +24,22 @@ I’m a passionate developer, problem-solver, and lifelong learner.
 ## 🛠️ Skills & Technologies
 Here are some tools and languages I use frequently (basics included):  
 
-![C](https://img.shields.io/badge/C-Basic-blue?logo=c)  
-
-![Java](https://img.shields.io/badge/Java-Basic-red?logo=java)  
-
-![Python](https://img.shields.io/badge/Python-Basic%20+%20OOPs-blue?logo=python)  
-
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)  
-
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)  
-
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)  
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
-
-![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=black)  
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)  
-
+![C](https://img.shields.io/badge/C-Basic-blue?logo=c) &nbsp;&nbsp;
+![Java](https://img.shields.io/badge/Java-Basic-red?logo=java) &nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-Basic%20+%20OOPs-blue?logo=python) &nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5) &nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3) &nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript) &nbsp;&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) &nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) &nbsp;&nbsp;
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=black) &nbsp;&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) &nbsp;&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) &nbsp;&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) &nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) &nbsp;&nbsp;
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white) &nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
-![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
-
-
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white) &nbsp;&nbsp;
 
 ---
 
