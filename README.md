@@ -38,7 +38,7 @@ Here are some tools and languages I use frequently (basics included):
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) &nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) &nbsp;&nbsp;
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white) &nbsp;&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) &nbsp;&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white) &nbsp;&nbsp;
 
 ---
