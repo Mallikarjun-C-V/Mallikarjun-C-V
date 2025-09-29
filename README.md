@@ -7,7 +7,6 @@ I’m a passionate developer, problem-solver, and lifelong learner.
 
 ## 🎮 Fun Corner
 Check out my Snake Game in action:  
-![Snake Game](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
