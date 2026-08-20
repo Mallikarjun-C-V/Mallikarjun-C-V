@@ -1,4 +1,7 @@
-# Hi there 👋, I'm MALLIKARJUN C V
+<img src="./cyberpunk-neon.svg" width="100%" alt="Cyberpunk Neon">
+
+
+# Hi there 👋
 
 Welcome to my corner of GitHub!  
 I’m a passionate developer, problem-solver, and lifelong learner.  
