@@ -60,7 +60,6 @@ Here are some tools and languages I use frequently (basics included):
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mallikarjun-cv/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=flat-square)](https://twitter.com/YOUR_TWITTER)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?logo=google-chrome&style=flat-square)](https://YOUR_PORTFOLIO)
 
 ---
