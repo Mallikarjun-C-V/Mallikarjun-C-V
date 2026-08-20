@@ -119,7 +119,7 @@
     <circle cx="6" cy="-3" r="3.5" fill="#ff00d9">
       <animate attributeName="opacity" values="0.4;1;0.4" dur="1.4s" repeatCount="indefinite"/>
     </circle>
-    <text x="20" y="0">Mallikarjun C V · NEURAL UPLINK STABLE · UPTIME 2,184d</text>
+    <text x="20" y="0">Mallikarjun C V · MERN · UPTIME 1000+d</text>
   </g>
 
   <text x="1140" y="396" text-anchor="end" font-family="'JetBrains Mono', monospace" font-size="10" fill="#ff00d9" letter-spacing="3">[ MERN ] [ Python ] [ Java ] [ Git ]</text>
