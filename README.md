@@ -16,12 +16,46 @@ I’m a passionate developer, problem-solver, and lifelong learner.
 ---
 
 ## 📊 GitHub Stats
+<div align="center">
+
+# 👋 Hi, I'm Mallikarjun C V
+
+### Full-Stack Developer • Open Source • Building Cool Things
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Always+Learning+Something+New;Building+%26+Breaking+Things;Turning+Ideas+Into+Code" />
+
+<br>
+
 <a href="https://github.com/Mallikarjun-C-V">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Mallikarjun-C-V&show_icons=true&theme=radical" />
+  <img src="https://img.shields.io/github/followers/Mallikarjun-C-V?style=for-the-badge&logo=github&label=Followers" />
 </a>
 <a href="https://github.com/Mallikarjun-C-V">
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mallikarjun-C-V&layout=compact&theme=radical" />
+  <img src="https://img.shields.io/github/stars/Mallikarjun-C-V?style=for-the-badge&logo=github&label=Stars" />
 </a>
+
+</div>
+
+---
+
+## 🚀 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=Mallikarjun-C-V&show_icons=true&theme=radical&hide_border=true" height="180"/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mallikarjun-C-V&layout=compact&theme=radical&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Mallikarjun-C-V/Mallikarjun-C-V/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
