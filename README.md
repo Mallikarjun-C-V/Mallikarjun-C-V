@@ -16,8 +16,12 @@ I’m a passionate developer, problem-solver, and lifelong learner.
 ---
 
 ## 📊 GitHub Stats
-![MALLIKARJUN C V's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mallikarjun-C-V&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mallikarjun-C-V&layout=compact&theme=radical)
+<a href="https://github.com/Mallikarjun-C-V">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Mallikarjun-C-V&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/Mallikarjun-C-V">
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mallikarjun-C-V&layout=compact&theme=radical" />
+</a>
 
 ---
 
