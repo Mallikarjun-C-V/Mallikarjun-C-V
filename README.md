@@ -8,9 +8,18 @@ I’m a passionate developer, problem-solver, and lifelong learner.
 ## 🎮 Fun Corner
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/asamassekou10/demo-gitskins/output/space-shooter.gif" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="[YOUR_DARK_GIF_URL](https://raw.githubusercontent.com/asamassekou10/demo-gitskins/output/space-shooter.gif)"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/asamassekou10/demo-gitskins/output/space-shooter.gif"
+  />
+  <img
+    alt="Space Shooter"
+    src="https://raw.githubusercontent.com/asamassekou10/demo-gitskins/output/space-shooter.gif"
+  />
 </picture>
 
 ---
