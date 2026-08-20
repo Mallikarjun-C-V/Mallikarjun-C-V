@@ -79,3 +79,13 @@ Here are some tools and languages I use frequently (basics included):
 ---
 
 ✨ **Explore my repositories below to see all my projects!**
+
+
+<div align="center">
+
+<img
+  src="https://www.gitskins.com/api/section/system-scan?username=Mallikarjun-C-V&theme=aurora"
+  alt="System Scan"
+/>
+
+</div>
