@@ -1,0 +1,46 @@
+name: Update System Scan
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-system-scan:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download latest System Scan
+        run: |
+          mkdir -p assets
+
+          curl -L \
+            "https://www.gitskins.com/api/section/system-scan?username=Mallikarjun-C-V&theme=aurora" \
+            -o assets/system-scan.svg
+
+      - name: Check downloaded SVG
+        run: |
+          head -n 5 assets/system-scan.svg
+
+      - name: Commit updated System Scan
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/system-scan.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes detected."
+          else
+            git commit -m "Update system scan"
+            git push
+          fi
