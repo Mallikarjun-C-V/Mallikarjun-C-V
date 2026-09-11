@@ -87,7 +87,7 @@ Here are some tools and languages I use frequently (basics included):
 <div align="center">
 
 <img
-  src="https://www.gitskins.com/api/section/system-scan?username=Mallikarjun-C-V&theme=aurora"
+  src="https://www.gitskins.com/api/section/system-scan?username=Mallikarjun-C-V&theme=aurora&v=2"
   alt="System Scan"
 />
 
