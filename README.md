@@ -20,6 +20,19 @@ I’m a passionate developer, problem-solver, and lifelong learner.
 
 ---
 
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/ABHISHEK-ANGADI">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mallikarjun-C-V&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="ABHISHEK-ANGADI's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=ABHISHEK-ANGADI&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Mallikarjun-C-V's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Mallikarjun-C-V&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mallikarjun-C-V's GitHub Trophies" />
+</p>
+
+---
+
 ## 🛠️ Skills & Technologies
 Here are some tools and languages I use frequently (basics included):  
 
