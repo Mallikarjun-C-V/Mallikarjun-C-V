@@ -1,101 +1,137 @@
-<img src="./cyberpunk-neon.svg" width="100%" alt="Cyberpunk Neon">
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mallikarjun-C-V&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
-</div>
+<h1 align="center">Hi 👋, I'm Mallikarjun C V</h1>
+<h3 align="center">Full-Stack Developer | MERN Stack | AI & Machine Learning</h3>
 
-# Hi there 👋
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Mallikarjun-C-V">
+    <img src="https://komarev.com/ghpvc/?username=Mallikarjun-C-V&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
+  </a>
+</p>
 
-Welcome to my corner of GitHub!  
-I’m a passionate developer, problem-solver, and lifelong learner.  
+<img src="./cyberpunk-neon.svg" width="100%" alt="Cyberpunk Neon" />
+
+## 🚀 About Me
+
+- 🎓 Computer Science & Engineering student at GMIT, Davanagere
+- 💻 Passionate about Full-Stack Development and Software Engineering
+- ⚛️ Building modern web applications using the MERN stack
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🧠 Interested in problem-solving, algorithms, and new technologies
+- 🏥 Developing **Vaidyam**, an AI-integrated healthcare platform
+- 🚀 I love turning ideas into real-world projects
+- 🌱 Always learning, building, and improving
+
+## 🧠 My Focus Areas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack_Development-React-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/MERN_Stack-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_%26_Machine_Learning-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 ## 📊 GitHub Stats & Trophies
+
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Mallikarjun-C-V&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Mallikarjun-C-V&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mallikarjun-C-V&layout=donut&theme=radical&hide_border=true&langs_count=6" height="180" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mallikarjun-C-V&layout=donut&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+
+</div>
 
 <br>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Mallikarjun-C-V&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mallikarjun-C-V's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=Mallikarjun-C-V&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
 </p>
 
-</div>
+## 🛠️ Languages & Technologies
 
-## 🛠️ Skills & Technologies
-Here are some tools and languages I use frequently (basics included):  
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+</p>
 
-![C](https://img.shields.io/badge/C-Basic-blue?logo=c) &nbsp;&nbsp;
-![Java](https://img.shields.io/badge/Java-Basic-red?logo=java) &nbsp;&nbsp;
-![Python](https://img.shields.io/badge/Python-Basic%20+%20OOPs-blue?logo=python) &nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5) &nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3) &nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript) &nbsp;&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) &nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) &nbsp;&nbsp;
-![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=black) &nbsp;&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) &nbsp;&nbsp;
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) &nbsp;&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) &nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) &nbsp;&nbsp;
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white) &nbsp;&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) &nbsp;&nbsp;
-![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white) &nbsp;&nbsp;
+<h3 align="center">Frontend Development</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" />
+</p>
 
----
+<h3 align="center">Backend & Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" alt="Mongoose" width="40" />
+</p>
+
+<h3 align="center">AI, Machine Learning & Tools</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" />
+</p>
 
 ## 🌱 Currently Learning
-- ⚡ Building projects 
-- 🎮 Computer Networks
-- 🌐 Modern Web Development (React & Next.js)  
-- 📊 Data Visualization & Analytics  
 
----
-
-## 💬 Fun Facts
-- Seeing others code fuels my coding (just being honest) 🫣  
-- Love to turn random ideas into small projects 💡  
-- GitHub streaks are my guilty pleasure 🔥  
-
----
-
----
+- 🌐 Modern Web Development with React and Next.js
+- 🤖 Deep Learning and Neural Networks
+- 📊 Data Visualization and Analytics
+- ⚡ Building and deploying real-world applications
 
 ## 🎮 Fun Corner
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="[YOUR_DARK_GIF_URL](https://raw.githubusercontent.com/asamassekou10/demo-gitskins/output/space-shooter.gif)"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/asamassekou10/demo-gitskins/output/space-shooter.gif"
-  />
-  <img
-    alt="Space Shooter"
-    src="https://raw.githubusercontent.com/asamassekou10/demo-gitskins/output/space-shooter.gif"
-  />
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/asamassekou10/demo-gitskins/output/space-shooter.gif" alt="Space Shooter Game" width="100%" />
+</p>
 
----
+## 💬 Fun Facts
+
+- 🫣 Seeing others code fuels my coding motivation
+- 💡 I love turning random ideas into small projects
+- 🎮 I enjoy exploring games and experimenting with new tech
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mallikarjun-cv/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?logo=google-chrome&style=flat-square)](https://YOUR_PORTFOLIO)
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/mallikarjun-cv/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://YOUR_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-FF69B4?logo=google-chrome&style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-✨ **Explore my repositories below to see all my projects!**
-
+<p align="center">
+  ✨ <b>Explore my repositories and let's build something amazing!</b>
+</p>
 
 <div align="center">
-
-<img
-  src="./assets/system-scan.svg"
-  alt="System Scan"
-/>
-
+  <img src="./assets/system-scan.svg" alt="System Scan" width="100%" />
 </div>
