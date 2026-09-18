@@ -4,9 +4,6 @@
 
 <img src="./cyberpunk-neon.svg" width="100%" alt="Cyberpunk Neon">
 
-<img src="./cyberpunk-neon.svg" width="100%" alt="Cyberpunk Neon">
-
-
 # Hi there 👋
 
 Welcome to my corner of GitHub!  
