@@ -9,29 +9,20 @@
 Welcome to my corner of GitHub!  
 I’m a passionate developer, problem-solver, and lifelong learner.  
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Trophies
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=Mallikarjun-C-V&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180" />
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mallikarjun-C-V&layout=donut&theme=radical&hide_border=true&langs_count=6" height="180" />
 
-</div>
+<br>
 
----
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/ABHISHEK-ANGADI">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mallikarjun-C-V&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="ABHISHEK-ANGADI's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=ABHISHEK-ANGADI&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Mallikarjun-C-V's GitHub Streak" width="49%" />
-</p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Mallikarjun-C-V&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mallikarjun-C-V's GitHub Trophies" />
 </p>
 
----
+</div>
 
 ## 🛠️ Skills & Technologies
 Here are some tools and languages I use frequently (basics included):  
