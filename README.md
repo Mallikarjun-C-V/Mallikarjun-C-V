@@ -9,27 +9,6 @@
 Welcome to my corner of GitHub!  
 I’m a passionate developer, problem-solver, and lifelong learner.  
 
----
-
-## 🎮 Fun Corner
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="[YOUR_DARK_GIF_URL](https://raw.githubusercontent.com/asamassekou10/demo-gitskins/output/space-shooter.gif)"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/asamassekou10/demo-gitskins/output/space-shooter.gif"
-  />
-  <img
-    alt="Space Shooter"
-    src="https://raw.githubusercontent.com/asamassekou10/demo-gitskins/output/space-shooter.gif"
-  />
-</picture>
-
----
-
 ## 📊 GitHub Stats
 <div align="center">
 
@@ -75,6 +54,27 @@ Here are some tools and languages I use frequently (basics included):
 - Seeing others code fuels my coding (just being honest) 🫣  
 - Love to turn random ideas into small projects 💡  
 - GitHub streaks are my guilty pleasure 🔥  
+
+---
+
+---
+
+## 🎮 Fun Corner
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="[YOUR_DARK_GIF_URL](https://raw.githubusercontent.com/asamassekou10/demo-gitskins/output/space-shooter.gif)"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/asamassekou10/demo-gitskins/output/space-shooter.gif"
+  />
+  <img
+    alt="Space Shooter"
+    src="https://raw.githubusercontent.com/asamassekou10/demo-gitskins/output/space-shooter.gif"
+  />
+</picture>
 
 ---
 
