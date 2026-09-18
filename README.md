@@ -1,6 +1,6 @@
 <img src="./cyberpunk-neon.svg" width="100%" alt="Cyberpunk Neon">
 
-<div align="right">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mallikarjun-C-V&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
 </div>
 
