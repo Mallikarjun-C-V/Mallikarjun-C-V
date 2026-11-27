@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Mallikarjun C V</h1>
 <h3 align="center">Full-Stack Developer | MERN Stack | AI & Machine Learning</h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Mallikarjun-C-V">
     <img src="https://komarev.com/ghpvc/?username=Mallikarjun-C-V&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
   </a>
-</p>
+</p> -->
 
 <img src="./cyberpunk-neon.svg" width="100%" alt="Cyberpunk Neon" />
 
